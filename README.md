@@ -9,7 +9,7 @@ An Old Classic, Re-written in
 
 <div align="center">
 
-[![Play Online](https://img.shields.io/badge/Play%20-Online%20-brightgreen)](url)
+[![Play Online](https://img.shields.io/badge/Play%20-Online%20-brightgreen)](https://kpac-man-doodle.netlify.app/)
 
 </div>
 
