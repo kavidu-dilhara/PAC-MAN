@@ -5,7 +5,7 @@ An Old Classic, Re-written in
 <br>
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <hr>
-<img src="https://github.com/kavidu-dilhara/Project-Sources/blob/main/PAC-MAN%20Doodle/main.jpg">
+<img src="https://github.com/kavidu-dilhara/PAC-MAN/blob/main/main.jpg">
 
 <div align="center">
 
